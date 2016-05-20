@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Neuromonics</string>
+    <string name="play_item">Play item</string>
+    <string name="play_pause">play or pause</string>
+    <string name="skip_next">skip to next</string>
+    <string name="skip_prev">skip to previous</string>
+    <string name="view_subscription">VIEW SUBSCRIPTIONS</string>
+    <string name="restore_subscription">RESTORE SUBSCRIPTION</string>
+    <string name="title_activity_demo">DemoActivity</string>
+</resources>

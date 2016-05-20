@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="tabBarColor">#4AB4C5</color>
+    <color name="profileColor">#56C0D0</color>
+    <color name="musicPlayerBackground">#D2FFF7</color>
+    <color name="black">#000000</color>
+    <color name="primaryBlack">#191919</color>
+    <color name="greyColor">#808080</color>
+    <color name="redColor">#ff0000</color>
+</resources>
